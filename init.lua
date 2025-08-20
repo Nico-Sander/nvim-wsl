@@ -14,7 +14,7 @@ vim.o.breakindent = true
 -- Line numbers
 vim.o.number = true
 vim.o.relativenumber = true
-vim.o.scrolloff = 10
+vim.opt.scrolloff = 10
 vim.o.signcolumn = "yes"
 
 -- Search settings
